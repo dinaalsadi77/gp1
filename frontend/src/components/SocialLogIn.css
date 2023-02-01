@@ -1,0 +1,31 @@
+.title-social {
+  text-align: center;
+}
+
+.social-login-container {
+  width: 300px;
+  margin: 50px auto 0 auto;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-between;
+}
+
+.google:hover svg{
+    fill: yellow;
+}
+
+
+.facebook:hover svg{
+    fill: #3b5998;
+}
+
+
+.twitter:hover svg{
+    fill: #00acee;
+}
+
+.title-social {
+    margin-bottom: 20px;
+}
